@@ -3,9 +3,15 @@
 ## Overview
 NovaBuild is a simple and responsive landing page created using HTML and CSS. The project demonstrates the use of modern web development concepts such as semantic HTML, Flexbox, CSS Grid, and Media Queries.
 
-## Screenshot
+## Screenshots
 
-![TaskFlow Screenshot](images/img1.png)
+### Hero Section
+
+![Hero Section](./images/img1.png)
+
+### Features & Footer
+
+![Features & Footer](./images/img2.png)
 
 ## Features
 - Responsive navigation bar
