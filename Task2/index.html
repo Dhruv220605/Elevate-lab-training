@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TaskFlow | To-Do App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app-shell">
+    <section class="todo-app" aria-label="To-Do application">
+      <div class="app-header">
+        <div>
+          <p class="eyebrow">Task 2</p>
+          <h1>TaskFlow</h1>
+          <p class="subtitle">Plan your day, stay focused, finish stronger.</p>
+        </div>
+
+        <div class="stat-card" aria-live="polite">
+          <span id="taskCount">0</span>
+          <small>tasks left</small>
+        </div>
+      </div>
+
+      <form class="todo-form" autocomplete="off">
+        <input
+          type="text"
+          id="taskInput"
+          placeholder="Add a new task..."
+          aria-label="Enter task"
+        />
+        <button type="submit" class="add-btn">Add Task</button>
+      </form>
+
+      <div class="toolbar">
+        <div class="filters" role="tablist" aria-label="Task filters">
+          <button class="filter-btn active" data-filter="all" type="button">All</button>
+          <button class="filter-btn" data-filter="active" type="button">Active</button>
+          <button class="filter-btn" data-filter="completed" type="button">Completed</button>
+        </div>
+
+        <button class="clear-btn" type="button" id="clearCompleted">
+          Clear Completed
+        </button>
+      </div>
+
+      <ul class="task-list" id="taskList"></ul>
+      <p class="empty-state" id="emptyState">No tasks yet. Add one above.</p>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
