@@ -6,7 +6,6 @@ NovaBuild is a simple and responsive landing page created using HTML and CSS. Th
 ## Screenshot
 
 ![TaskFlow Screenshot](images/img1.png)
-![TaskFlow Screenshot](images/img2.png)
 
 ## Features
 - Responsive navigation bar
