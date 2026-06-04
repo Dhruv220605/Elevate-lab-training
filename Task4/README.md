@@ -105,7 +105,7 @@ Task4/
 1. Download or clone the repository.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Dhruv220605/Elevate-lab-training/tree/main/Task4
 ```
 
 2. Open the project folder.
