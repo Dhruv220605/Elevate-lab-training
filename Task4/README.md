@@ -58,15 +58,25 @@ The application was optimized for different screen sizes using CSS Media Queries
 ## Screenshots
 
 ### Desktop View
-- desktop-1.png
-- desktop-2.png
+
+#### Desktop Screenshot 1
+![Desktop View 1](screenshots/desktop-1.png)
+
+#### Desktop Screenshot 2
+![Desktop View 2](screenshots/desktop-2.png)
+
+---
 
 ### Mobile View
-- mobile-1.png
-- mobile-2.png
-- mobile-3.png
 
-Screenshots are available in the `screenshots` folder.
+#### Mobile Screenshot 1
+![Mobile View 1](screenshots/mobile-1.png)
+
+#### Mobile Screenshot 2
+![Mobile View 2](screenshots/mobile-2.png)
+
+#### Mobile Screenshot 3
+![Mobile View 3](screenshots/mobile-3.png)
 
 ---
 
