@@ -104,18 +104,16 @@ Task4/
 
 1. Download or clone the repository.
 
-```bash
 git clone https://github.com/Dhruv220605/Elevate-lab-training/tree/main/Task4
-```
 
 2. Open the project folder.
 
 3. Launch `index.html` in your browser.
 
 4. Test responsiveness using:
-   - Chrome DevTools
-   - Device Toolbar
-   - Different screen sizes
+- Chrome DevTools
+- Device Toolbar
+- Different screen sizes
 
 ---
 
