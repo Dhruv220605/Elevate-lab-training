@@ -3,6 +3,18 @@
 ## Objective
 Host a simple static website using GitHub Pages.
 
+## Screenshots
+
+### GitHub Pages Settings
+
+![GitHub Pages Settings](screenshots/github-pages-settings.png)
+
+---
+
+### Live Website
+
+![Live Website](screenshots/live-website.png)
+
 ## Technologies Used
 - HTML5
 - CSS3
@@ -16,7 +28,7 @@ Host a simple static website using GitHub Pages.
 - Mobile-Friendly Layout
 
 ## Live Website
-(Add GitHub Pages URL here after deployment)
+- https://dhruv220605.github.io/Elevate-lab-training/
 
 ## Deployment Steps
 1. Created a GitHub repository.
